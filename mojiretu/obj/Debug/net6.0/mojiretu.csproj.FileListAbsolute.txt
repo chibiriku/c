@@ -1,0 +1,15 @@
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\bin\Debug\net6.0\mojiretu.exe
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\bin\Debug\net6.0\mojiretu.deps.json
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\bin\Debug\net6.0\mojiretu.runtimeconfig.json
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\bin\Debug\net6.0\mojiretu.dll
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\bin\Debug\net6.0\mojiretu.pdb
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.csproj.AssemblyReference.cache
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.AssemblyInfoInputs.cache
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.AssemblyInfo.cs
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.csproj.CoreCompileInputs.cache
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.dll
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\refint\mojiretu.dll
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.pdb
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\mojiretu.genruntimeconfig.cache
+C:\Users\rikur\OneDrive\ドキュメント\helloworld\mojiretu\obj\Debug\net6.0\ref\mojiretu.dll
