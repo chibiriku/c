@@ -1,15 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
-double a = 19;
-double b = 23;
-double c = 8;
-double d = (a + b) / c;
-Console.WriteLine(d);
+decimal min = decimal.MinValue;
+decimal max = decimal.MaxValue;
+Console.WriteLine($"The range of the decimal type is {min} to {max}");
 
-double max = double.MaxValue;
-double min = double.MinValue;
-Console.WriteLine($"The range of double is {min} to {max}");
+double a = 1.0;
+double b = 3.0;
+Console.WriteLine(a / b);
 
-double third = 1.0 / 3.0;
-Console.WriteLine(third);
-
-// int duble chir
+decimal c = 1.0M;
+decimal d = 3.0M;
+Console.WriteLine(c / d);
