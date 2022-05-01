@@ -10,3 +10,9 @@ Console.WriteLine(a / b);
 decimal c = 1.0M;
 decimal d = 3.0M;
 Console.WriteLine(c / d);
+
+double radius = 2.50;
+double area = Math.PI * radius * radius;
+Console.WriteLine(area);
+// 円の面積公式
+
